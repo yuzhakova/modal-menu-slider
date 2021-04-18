@@ -2,9 +2,9 @@
 
 :root {
   --modal-duration: 1s;
-  --primary-color: #002333;
+  --primary-color: #567572FF;
   /* --secondary-color: #3722d3; */
-  --secondary-color: #00ff84;
+  --secondary-color: #FBDE44FF;
 
 
 }
@@ -94,7 +94,7 @@ input[type='submit'] {
   background-color: var(--secondary-color);
   border: 0;
   border-radius: 5px;
-  color: #fff;
+  color: #F28334AFF;
   /* font-weight: bold; */
   cursor: pointer;
   padding: 8px 12px;
