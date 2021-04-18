@@ -11,7 +11,13 @@ Simple landing page with sliding menu and modal
 
 ## Final Product
 
+### Sidebar hidden
+
 !["Landing Page"](https://raw.githubusercontent.com/yuzhakova/modal-menu-slider/main/landing-page.png)
+
+
+### Sidebar shown
+
 !["Sidebar"](https://raw.githubusercontent.com/yuzhakova/modal-menu-slider/main/landing-page-sidebar.png)
 
 - JavaScript
